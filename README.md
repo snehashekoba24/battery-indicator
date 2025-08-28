@@ -10,6 +10,7 @@ A simple web that displays your device’s battery level in real time with a cle
 
 
 
+
 🚀 Run the Project
 
 1️⃣ Run in VS Code
