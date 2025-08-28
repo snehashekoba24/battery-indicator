@@ -7,6 +7,7 @@ A simple web that displays your device’s battery level in real time with a cle
 ->🌗 Includes a toggle for dark mode
 
 ->🎨 Built with HTML, CSS, and JavaScript
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
